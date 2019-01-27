@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "54201034714",
+    "firebase_url": "https://hack36-2a2b4.firebaseio.com",
+    "project_id": "hack36-2a2b4",
+    "storage_bucket": "hack36-2a2b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54201034714:android:71cdd7db99e6ed0f",
+        "android_client_info": {
+          "package_name": "com.example.bhonesh.hack36"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54201034714-g30gvbta1h0oou5ikbml649ivs21ftvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc0JNXAV3LbfhKljpJelXUFFm_nsfBb3w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

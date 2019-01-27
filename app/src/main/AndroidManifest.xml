@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bhonesh.hack36">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="edugent"
+
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".options">
+            <intent-filter>
+                <action android:name="com.example.bhonesh.hack36.options" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ngo_register">
+            <intent-filter>
+                <action android:name="com.example.bhonesh.hack36.ngo_register" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".volunteer_register">
+            <intent-filter>
+                <action android:name="com.example.bhonesh.hack36.volunteer_register" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".volunteer_dashboard">
+            <intent-filter>
+                <action android:name="com.example.bhonesh.hack36.volunteer_dashboard" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ngo_dashboard">
+            <intent-filter>
+                <action android:name="com.example.bhonesh.hack36.ngo_dashboard" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".CreateClass">
+            <intent-filter>
+                <action android:name="com.example.bhonesh.hack36.CreateClass" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".VolunteerSelection">
+            <intent-filter>
+                <action android:name="com.example.bhonesh.hack36.VolunteerSelection" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ConfirmationPage">
+            <intent-filter>
+                <action android:name="com.example.bhonesh.hack36.ConfirmationPage" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SuggestPage">
+            <intent-filter>
+                <action android:name="com.example.bhonesh.hack36.SuggestPage" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

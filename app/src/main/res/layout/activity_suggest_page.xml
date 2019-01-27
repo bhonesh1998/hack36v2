@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.bhonesh.hack36.SuggestPage">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="15dp">
+
+                <TextView
+                    android:id="@+id/classText"
+                    android:layout_width="130dp"
+                    android:layout_height="30dp"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="#000000"
+                    android:text="Class" />
+
+                <EditText
+                    android:id="@+id/classEdit"
+                    android:layout_width="170dp"
+                    android:layout_height="40dp"
+                    android:inputType="textPersonName" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="15dp">
+
+                <TextView
+                    android:id="@+id/subjectText"
+                    android:layout_width="130dp"
+                    android:layout_height="30dp"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="#000000"
+                    android:text="Subject" />
+
+                <EditText
+                    android:id="@+id/subjectEdit"
+                    android:layout_width="170dp"
+                    android:layout_height="40dp"
+                    android:inputType="textPersonName" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="15dp">
+
+                <TextView
+                    android:id="@+id/topicText"
+                    android:layout_width="130dp"
+                    android:layout_height="30dp"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="#000000"
+                    android:text="Topic" />
+
+                <EditText
+                    android:id="@+id/topicEdit"
+                    android:layout_width="170dp"
+                    android:layout_height="40dp"
+                    android:inputType="textPersonName" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="15dp">
+
+                <TextView
+                    android:id="@+id/urlText"
+                    android:layout_width="130dp"
+                    android:layout_height="30dp"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="#000000"
+                    android:text="URL link" />
+
+                <EditText
+                    android:id="@+id/urlEdit"
+                    android:layout_width="170dp"
+                    android:layout_height="40dp"
+                    android:inputType="textPersonName" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="15dp">
+
+                <TextView
+                    android:id="@+id/nameText"
+                    android:layout_width="130dp"
+                    android:layout_height="30dp"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="#000000"
+                    android:text="Name" />
+
+                <EditText
+                    android:id="@+id/nameEdit"
+                    android:layout_width="170dp"
+                    android:layout_height="40dp"
+                    android:inputType="textPersonName" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/suggestSubmit"
+            android:layout_alignParentBottom="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Submit Suggestion"
+            android:textSize="23sp"
+            android:layout_margin="10dp"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/oval_register2" />
+
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>
