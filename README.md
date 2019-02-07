@@ -12,10 +12,10 @@ Extra features may be added further ->
 * Feel free to use YatraBot 
 
 ## Screenshot
-![alt_tetxt](https://github.com/bhonesh1998/hack36v2/blob/master/Screenshot_2019-01-27-08-01-37-578_com.example.bhonesh.hack36.png)
-![alt text](https://github.com/bhonesh1998/hack36v2/blob/master/Screenshot_2019-01-27-08-02-32-577_com.example.bhonesh.hack36.png)
-![alt text](https://github.com/bhonesh1998/hack36v2/blob/master/Screenshot_2019-01-27-08-04-00-882_com.example.bhonesh.hack36.png)
-![alt text](https://github.com/bhonesh1998/hack36v2/blob/master/Screenshot_2019-01-27-08-05-31-816_com.example.bhonesh.hack36.png)
+![alt_tetxt](https://github.com/bhonesh1998/hack36v2/blob/master/Screenshot_2019-01-27-08-01-37-578_com.example.bhonesh.hack36.jpg)
+![alt text](https://github.com/bhonesh1998/hack36v2/blob/master/Screenshot_2019-01-27-08-02-32-577_com.example.bhonesh.hack36.jpg)
+![alt text](https://github.com/bhonesh1998/hack36v2/blob/master/Screenshot_2019-01-27-08-04-00-882_com.example.bhonesh.hack36.jpg)
+![alt text](https://github.com/bhonesh1998/hack36v2/blob/master/Screenshot_2019-01-27-08-05-31-816_com.example.bhonesh.hack36.jpg)
 
 
 ## Motivation
