@@ -34,7 +34,7 @@ Extra features may be added further ->
 * **Nidhi Verma** - *Web developer* - [nidhi3400](https://github.com/nidhi3400)
 * **Ashish Gopal Hattimare** - *Software developer* - [ashishgopalhattimare](https://github.com/ashishgopalhattimare)
 * **Bhonesh Chawla** - *Android developer* - [bhonesh1998](https://github.com/bhonesh1998)
-* **Akash Yadav** - *Quality assurance/Tester* - [aky91](https://github.com/aky91)
+* **Akash Yadav** - *Quality Assurance/Tester* - [aky91](https://github.com/aky91)
 
 
 ## License
